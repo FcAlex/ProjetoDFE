@@ -1,0 +1,12 @@
+
+.container {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.books > li:first-child {
+  margin-top: 1rem;
+}
+
+.books > li:last-child {
+  margin-bottom: 1rem;
+}
